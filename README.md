@@ -1,3 +1,3 @@
 # landing-page
 
-Project: Landing Page - The Odin Project Foundations Course
+Project: Landing Page - The Odin Project CSS Foundations Course
