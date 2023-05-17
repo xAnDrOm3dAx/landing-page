@@ -1,3 +1,7 @@
 # landing-page
 
-Project: Landing Page - The Odin Project CSS Foundations Course
+The Odin Project CSS Foundations Course
+
+Project: Landing Page
+
+Technologies Used: HTML & CSS
